@@ -1,4 +1,4 @@
-# Min and Max in Array
+# Minimum and Maximum of an Array
 
 ## Problem Statement
 Given an array `arr[]`, find the minimum and maximum elements present in the array.
