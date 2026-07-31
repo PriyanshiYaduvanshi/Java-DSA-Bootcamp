@@ -97,7 +97,3 @@ Print these patterns using loops:
      * * * * *
 
 
-
-       123  321
-       12344321
-```
