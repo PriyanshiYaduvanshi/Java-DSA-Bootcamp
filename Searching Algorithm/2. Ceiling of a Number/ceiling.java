@@ -19,6 +19,8 @@ public class Ceiling {
                 right = mid-1;
             }
         }
+        if (left == arr.length) 
+             return -1;
         return arr[left];
     }
 }
